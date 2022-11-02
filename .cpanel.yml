@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/PUBLIC_HTML/schoolgadgets/classworks
+    - /bin/cp -R classworks $DEPLOYPATH
