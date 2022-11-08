@@ -1,3 +1,3 @@
 <?php
-echo "Hiya Earth!";
+echo "Hiya to the Earth!";
 ?>
